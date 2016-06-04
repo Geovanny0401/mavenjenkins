@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+
+<coverage line-rate="0.8" branch-rate="1.0" lines-covered="8" lines-valid="10" branches-covered="0" branches-valid="0" complexity="1.0" version="2.1.1" timestamp="1465012177795">
+	<sources>
+		<source>D:/UNIVERSIDAD DEL NORTE/10_Validacion_Verificacion_Software/Trabajo/mavenjenkins/src/main/java</source>
+		<source>--source</source>
+	</sources>
+	<packages>
+		<package name="com.gm.mavenjenkins" line-rate="0.8" branch-rate="1.0" complexity="1.0">
+			<classes>
+				<class name="com.gm.mavenjenkins.Calculadora" filename="com/gm/mavenjenkins/Calculadora.java" line-rate="0.8" branch-rate="1.0" complexity="1.0">
+					<methods>
+						<method name="&lt;init&gt;" signature="()V" line-rate="1.0" branch-rate="1.0" complexity="0">
+							<lines>
+								<line number="15" hits="3" branch="false"/>
+								<line number="16" hits="3" branch="false"/>
+							</lines>
+						</method>
+						<method name="Dividir" signature="(II)I" line-rate="0.0" branch-rate="1.0" complexity="0">
+							<lines>
+								<line number="42" hits="0" branch="false"/>
+								<line number="43" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="Multiplicacion" signature="(II)I" line-rate="1.0" branch-rate="1.0" complexity="0">
+							<lines>
+								<line number="35" hits="1" branch="false"/>
+								<line number="36" hits="1" branch="false"/>
+							</lines>
+						</method>
+						<method name="Resta" signature="(II)I" line-rate="1.0" branch-rate="1.0" complexity="0">
+							<lines>
+								<line number="28" hits="1" branch="false"/>
+								<line number="29" hits="1" branch="false"/>
+							</lines>
+						</method>
+						<method name="Suma" signature="(II)I" line-rate="1.0" branch-rate="1.0" complexity="0">
+							<lines>
+								<line number="21" hits="1" branch="false"/>
+								<line number="22" hits="1" branch="false"/>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="15" hits="3" branch="false"/>
+						<line number="16" hits="3" branch="false"/>
+						<line number="21" hits="1" branch="false"/>
+						<line number="22" hits="1" branch="false"/>
+						<line number="28" hits="1" branch="false"/>
+						<line number="29" hits="1" branch="false"/>
+						<line number="35" hits="1" branch="false"/>
+						<line number="36" hits="1" branch="false"/>
+						<line number="42" hits="0" branch="false"/>
+						<line number="43" hits="0" branch="false"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+	</packages>
+</coverage>
